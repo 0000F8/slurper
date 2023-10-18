@@ -1,4 +1,4 @@
-# slurper
+# Slurper
 
 Slurper is a set of components that work to orchestrate the collection and parsing of unstructured web data and other media to be ETL'd for use in embeddings/vectors for LLM processing.
 
