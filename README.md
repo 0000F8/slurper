@@ -12,3 +12,7 @@ Slurper is a set of components that work to orchestrate the collection and parsi
 
 ### Slurper-python
   This is the Python back-end for agents processing. (Python3/FastAPI)
+
+### Component Diagram
+
+![Slurper Diagram](https://github.com/0000F8/slurper/blob/main/assets/diagram.png?raw=true)
