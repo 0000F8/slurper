@@ -1,0 +1,65 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore node_modules in React apps
+**/node_modules/
+/node_modules/
+
+# Ignore log and temp files in Rails apps
+**/log/
+/log/
+**/tmp/
+/tmp/
+
+# Ignore .env files in all apps
+**/.env
+.env
+
+# Ignore database configurations in Rails apps
+**/config/database.yml
+/config/database.yml
+
+# Ignore IDE-specific files and directories
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Ignore local npm packages for React apps
+package-lock.json
+
+# Ignore yarn.lock file in React apps
+yarn.lock
+
+# Ignore .pyc files in Python apps
+*.pyc
+
+# Ignore the Python virtual environment directory
+venv/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Ignore .env.local files in React apps
+**/.env.local
+.env.local
+
+# Ignore .env.development files in React apps
+**/.env.development
+.env.development
+
+# Ignore .env.test files in React apps
+**/.env.test
+.env.test
+
+# Ignore .env.production files in React apps
+**/.env.production
+.env.production
